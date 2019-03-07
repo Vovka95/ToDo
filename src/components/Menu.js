@@ -22,7 +22,7 @@ class Menu extends Component {
             <div className="navBar">
                 <Navbar color="light" light expand="md">
                     <Link className="brand" to="/todo">
-                        <img className="logo" src="../logo.ico" alt="logo"/> 
+                        <img className="logo" src="./logo.ico" alt="logo"/> 
                         <NavbarBrand >Todo</NavbarBrand>
                     </Link>
                     <NavbarToggler onClick={this.toggle} />
