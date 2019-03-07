@@ -29,7 +29,7 @@ class Menu extends Component {
                     <Collapse isOpen={this.state.isOpen} navbar>
                     <Nav className="ml-auto" navbar>
                     <NavItem>
-                        <Link to="/"><Button color="success">Registration</Button></Link>
+                        <Link to="/registration"><Button color="success">Registration</Button></Link>
                     </NavItem>
                     </Nav>
                     </Collapse>
