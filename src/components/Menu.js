@@ -22,14 +22,14 @@ class Menu extends Component {
             <div className="navBar">
                 <Navbar color="light" light expand="md">
                     <Link className="brand" to="/todo">
-                        <img className="logo" src="./logo.ico" alt="logo"/> 
+                        <img className="logo" src="../logo.ico" alt="logo"/> 
                         <NavbarBrand >Todo</NavbarBrand>
                     </Link>
                     <NavbarToggler onClick={this.toggle} />
                     <Collapse isOpen={this.state.isOpen} navbar>
                     <Nav className="ml-auto" navbar>
                     <NavItem>
-                        <Link to="/registration"><Button color="success">Registration</Button></Link>
+                        <Link to="/"><Button color="success">Registration</Button></Link>
                     </NavItem>
                     </Nav>
                     </Collapse>
