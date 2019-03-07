@@ -1,15 +1,15 @@
 {
-  "main.css": "/ToDo/registration/static/css/main.ff17d676.chunk.css",
-  "main.js": "/ToDo/registration/static/js/main.d2f9a624.chunk.js",
-  "main.js.map": "/ToDo/registration/static/js/main.d2f9a624.chunk.js.map",
-  "runtime~main.js": "/ToDo/registration/static/js/runtime~main.bac39fce.js",
-  "runtime~main.js.map": "/ToDo/registration/static/js/runtime~main.bac39fce.js.map",
-  "static/css/2.90e8b122.chunk.css": "/ToDo/registration/static/css/2.90e8b122.chunk.css",
-  "static/js/2.3afe8c4a.chunk.js": "/ToDo/registration/static/js/2.3afe8c4a.chunk.js",
-  "static/js/2.3afe8c4a.chunk.js.map": "/ToDo/registration/static/js/2.3afe8c4a.chunk.js.map",
-  "index.html": "/ToDo/registration/index.html",
-  "precache-manifest.ecebf78748021d7392393ad5c2744879.js": "/ToDo/registration/precache-manifest.ecebf78748021d7392393ad5c2744879.js",
-  "service-worker.js": "/ToDo/registration/service-worker.js",
-  "static/css/2.90e8b122.chunk.css.map": "/ToDo/registration/static/css/2.90e8b122.chunk.css.map",
-  "static/css/main.ff17d676.chunk.css.map": "/ToDo/registration/static/css/main.ff17d676.chunk.css.map"
+  "main.css": "/ToDo/static/css/main.ff17d676.chunk.css",
+  "main.js": "/ToDo/static/js/main.06a7104d.chunk.js",
+  "main.js.map": "/ToDo/static/js/main.06a7104d.chunk.js.map",
+  "runtime~main.js": "/ToDo/static/js/runtime~main.3c3b1135.js",
+  "runtime~main.js.map": "/ToDo/static/js/runtime~main.3c3b1135.js.map",
+  "static/css/2.90e8b122.chunk.css": "/ToDo/static/css/2.90e8b122.chunk.css",
+  "static/js/2.3afe8c4a.chunk.js": "/ToDo/static/js/2.3afe8c4a.chunk.js",
+  "static/js/2.3afe8c4a.chunk.js.map": "/ToDo/static/js/2.3afe8c4a.chunk.js.map",
+  "index.html": "/ToDo/index.html",
+  "precache-manifest.cc5261e34b7519f760922db01f3ed3ff.js": "/ToDo/precache-manifest.cc5261e34b7519f760922db01f3ed3ff.js",
+  "service-worker.js": "/ToDo/service-worker.js",
+  "static/css/2.90e8b122.chunk.css.map": "/ToDo/static/css/2.90e8b122.chunk.css.map",
+  "static/css/main.ff17d676.chunk.css.map": "/ToDo/static/css/main.ff17d676.chunk.css.map"
 }
